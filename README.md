@@ -1,5 +1,5 @@
 
-*PDF to Speech Converter with Tkinter GUI*
+#PDF to Speech Converter with Tkinter GUI#
 
 This Python script offers a versatile and user-friendly solution for converting PDF files into speech using a graphical user interface (GUI) built with the Tkinter library. The application is designed to enhance accessibility and convenience, allowing users to listen to the contents of PDF documents rather than reading them.
 
