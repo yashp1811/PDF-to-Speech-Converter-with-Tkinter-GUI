@@ -3,7 +3,7 @@
 
 This Python script offers a versatile and user-friendly solution for converting PDF files into speech using a graphical user interface (GUI) built with the Tkinter library. The application is designed to enhance accessibility and convenience, allowing users to listen to the contents of PDF documents rather than reading them.
 
-**Key Features:**
+## Key Features:
 
 1. **Tkinter-based GUI:**
    - The application boasts an intuitive Tkinter-based interface, ensuring ease of use for users with varying levels of technical expertise.
@@ -20,7 +20,7 @@ This Python script offers a versatile and user-friendly solution for converting 
 5. **Fullscreen Mode Toggle:**
    - Users can toggle fullscreen mode with the F11 key, optimizing the viewing experience. This feature is especially useful for users who prefer an immersive, distraction-free environment.
 
-**Usage:**
+## Usage:
 
 1. **Run the Script:**
    - Execute the script and follow the prompt to enter the path of the PDF file you want to convert.
@@ -34,10 +34,10 @@ This Python script offers a versatile and user-friendly solution for converting 
 4. **Fullscreen Toggle:**
    - Press the F11 key to toggle fullscreen mode, enhancing the visibility of the content.
 
-**Contribution:**
-   - Contributions are welcome! Whether you want to add new features, improve existing functionality, or address issues, your input is valued.
+## Contribution:
+   - Contributions are welcome! Whether you want to add new features, improve existing functionality or address issues your input is valued.
 
-**Feedback:**
+## Feedback:
    - Feel free to provide feedback, report issues, or suggest improvements. Your feedback helps enhance the functionality and usability of the application.
 
 Enhance your PDF reading experience with this PDF to Speech Converter. Experience the convenience of listening to your documents with just a few clicks!
