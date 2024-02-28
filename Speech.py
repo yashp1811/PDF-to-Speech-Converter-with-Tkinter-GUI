@@ -1,5 +1,4 @@
 import tkinter as tk
-from idlelib import window
 from tkinter import scrolledtext
 import pyttsx3
 import PyPDF2
